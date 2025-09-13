@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1635-number-of-good-pairs](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
+| [1635-number-of-good-pairs](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1635-number-of-good-pairs](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [2714-left-and-right-sum-differences](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
