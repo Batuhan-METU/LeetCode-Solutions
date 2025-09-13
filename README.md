@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2491-smallest-even-multiple](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2491-smallest-even-multiple) |
+| [2556-convert-the-temperature](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2556-convert-the-temperature) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2748-calculate-delayed-arrival-time) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
