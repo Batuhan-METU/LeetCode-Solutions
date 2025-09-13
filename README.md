@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0605-can-place-flowers](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [1319-unique-number-of-occurrences](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
