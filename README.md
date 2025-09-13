@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Greedy
