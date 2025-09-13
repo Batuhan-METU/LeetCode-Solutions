@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3194-find-words-containing-character](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Hash Table
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2714-left-and-right-sum-differences](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
