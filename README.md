@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1894-merge-strings-alternately](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2727-number-of-senior-citizens](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
