@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Number Theory
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Greedy
 |  |
 | ------- |
