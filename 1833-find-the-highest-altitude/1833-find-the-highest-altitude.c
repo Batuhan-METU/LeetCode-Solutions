@@ -4,7 +4,7 @@ int largestAltitude(int* gain, int gainSize) {
     result = (int*)malloc((gainSize + 1) * sizeof(int));
 
     result[0] = 0;
-    for (int i = 1; i<gainSize; i++)
+    for (int i = 1; i<=gainSize; i++)
     {
         result[i] = result[i-1] + gain[i-1]; 
     }
