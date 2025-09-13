@@ -36,6 +36,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
