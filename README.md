@@ -27,12 +27,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Array
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
