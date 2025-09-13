@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1848-sum-of-unique-elements](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
