@@ -76,6 +76,7 @@
 | [2727-number-of-senior-citizens](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
 | ------- |
@@ -105,4 +108,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
