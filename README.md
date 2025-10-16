@@ -72,6 +72,7 @@
 | [1833-find-the-highest-altitude](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
@@ -111,5 +113,6 @@
 ## Sorting
 |  |
 | ------- |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
