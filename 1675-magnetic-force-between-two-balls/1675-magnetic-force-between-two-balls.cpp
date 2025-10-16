@@ -17,7 +17,7 @@ public:
 
 
         sort(position.begin(), position.end()); 
-        int left = 1, right = position.back() - position.front(); 
+        int left = 0, right = position.back() - position.front(); 
         int ans; 
 
         while(left<=right) {
