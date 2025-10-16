@@ -71,6 +71,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1635-number-of-good-pairs](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1833-find-the-highest-altitude](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
