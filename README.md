@@ -44,6 +44,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [1319-unique-number-of-occurrences](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -89,6 +91,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
@@ -99,6 +102,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -113,6 +117,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Batuhan-METU/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
